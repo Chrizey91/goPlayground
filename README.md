@@ -1,5 +1,6 @@
 # goPlayground
 
 
-[![Build Status](https://travis-ci.org/emirpasic/gods.svg)](https://api.travis-ci.org/repos/Chrizey91/
-goPlayground.svg)
+[![Build Status](https://api.travis-ci.org/repos/Chrizey91/
+goPlayground.svg)](https://api.travis-ci.org/repos/Chrizey91/
+goPlayground)
